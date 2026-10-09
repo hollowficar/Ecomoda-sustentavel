@@ -6,7 +6,7 @@ Web app de e-commerce de vestuário. Uma interface moderna que une a cultura urb
 
 <br>
 
-![Versão](https://img.shields.io/badge/VERSÃO-V2.0.0-5865F2?style=for-the-badge)
+![Versão](https://img.shields.io/badge/VERSÃO-V1.0.-5865F2?style=for-the-badge)
 ![Status](https://img.shields.io/badge/STATUS-PROJETO_ACADÊMICO-FF9800?style=for-the-badge)
 ![Stack](https://img.shields.io/badge/STACK-HTML5_%7C_CSS3_%7C_JS-F1C40F?style=for-the-badge)
 
@@ -31,7 +31,7 @@ Web app de e-commerce de vestuário. Uma interface moderna que une a cultura urb
 
 ## 📌 O que o projeto apresenta no momento?
 
-Apesar de ser um protótipo, a aplicação demonstra conceitos sólidos de desenvolvimento web, onde o cliente tem autonomia para simular a personalização da sua encomenda.
+Apesar de ser um protótipo, a aplicação demonstra conceitos sólidos de desenvolvimento web, onde o cliente tem autonomia para simular a personalização da sua encomenda e interface do site.
 
 <details>
   <summary>🎨 <b>Visual Shopping (Troca Dinâmica de Cor)</b></summary>
@@ -48,7 +48,7 @@ Apesar de ser um protótipo, a aplicação demonstra conceitos sólidos de desen
 <details>
   <summary>🚚 <b>Simulação de Cálculo de Frete</b></summary>
   <br>
-  Integração de um simulador de CEP na própria página do produto. O cliente introduz o seu código postal e recebe uma estimativa de valor imediata.
+  Integração de um simulador de CEP na própria página do produto. O cliente introduz o seu código postal e recebe uma estimativa de valor imediata(falha técnica no momento).
 </details>
 
 ## 🛠️ Limitações e Lógica Simulada (Mock)
