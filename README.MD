@@ -19,7 +19,7 @@ Web app de e-commerce de vestuário. Uma interface moderna que une a cultura urb
 
 > 🔒 **REPOSITÓRIO OFICIAL • HARUKI ECOMODA**
 > 
-> Desenvolvido e mantido por Ícaro Haruki Hagiwara Ribas.
+> Desenvolvido e mantido por Harukihk.
 
 </div>
 
