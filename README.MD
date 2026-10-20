@@ -7,7 +7,7 @@ Web app de e-commerce de vestuário. Uma interface moderna que une a cultura urb
 <br>
 
 ![Versão](https://img.shields.io/badge/VERSÃO-V1.0.-5865F2?style=for-the-badge)
-![Status](https://img.shields.io/badge/STATUS-PROJETO_ACADÊMICO-FF9800?style=for-the-badge)
+![Status](https://img.shields.io/badge/PROJETO_ACADÊMICO-FF9800?style=for-the-badge)
 ![Stack](https://img.shields.io/badge/STACK-HTML5_%7C_CSS3_%7C_JS-F1C40F?style=for-the-badge)
 
 <br>
